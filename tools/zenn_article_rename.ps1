@@ -1,18 +1,15 @@
 ﻿
-@"
-zennのブログファイルのファイル名を重複しないように、
-指定されたフォルダーパス配下の全ファイルの頭にファイル作成時間を付ける。
-ファイル名の形式は[14桁数字]_自分で決めたファイル名.mdであれば、対象外にする
-※対象ファイルの拡張子はmdのみ
+# zennのブログファイルのファイル名を重複しないように、
+# 指定されたフォルダーパス配下の全ファイルの頭にファイル作成時間を付ける。
+# ファイル名の形式は[14桁数字]_自分で決めたファイル名.mdであれば、対象外にする
+# ※対象ファイルの拡張子はmdのみ
 
-注意事項：
-1. 画面の出力に文字化けしないように、ps1ファイルのエンコードをUTF-8 with BOMにする
-2. powershellのエンコード設定確認：
-　管理者権限でpowershellを実行する
-　chcpをpowsershellで入力して結果を確認する
-　65001ではない場合は、chcp 65001を入力する
-
-"@
+# 注意事項：
+# 1. 画面の出力に文字化けしないように、ps1ファイルのエンコードをUTF-8 with BOMにする
+# 2. powershellのエンコード設定確認：
+# 　管理者権限でpowershellを実行する
+# 　chcpをpowsershellで入力して結果を確認する
+# 　65001ではない場合は、chcp 65001を入力する
 
 # 画面の出力のエンコードを UTF-8 に設定する
 $OutputEncoding = New-Object -typename System.Text.UTF8Encoding
@@ -25,12 +22,12 @@ $currentScriptPath = Split-Path -Parent $MyInvocation.MyCommand.Path
 # ユーザが入力した相対パスを結合する
 # $folder = Join-Path -Path $currentScriptPath -ChildPath $relativeFolder
 
-$folder = Join-Path -Path $currentScriptPath -ChildPath "contents/articles"
-$characters = 'abcdefghijklmnopqrstuvwxyz0123456789'
+$folder = Join-Path -Path $currentScriptPath -ChildPath "../articles"
+# $characters = 'abcdefghijklmnopqrstuvwxyz0123456789'
 # フォルダー存在するかを確認する
 if (Test-Path -Path $folder -PathType Container) {
     # 特定パターンのファイル名を取得する
-    $files = Get-ChildItem -Path $folder -File| Where-Object {
+    Get-ChildItem -Path $folder -File| Where-Object {
         $_.Name -notmatch "\d{14}_.*\.md$"
         
     } |ForEach-Object {

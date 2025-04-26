@@ -1,3 +1,13 @@
+## git config on vscode
+
+```
+# ユーザ名の設定
+git config user.name [ユーザ名]
+
+# メールアドレスの設定
+git config user.email [メールアドレス]
+```
+
 ## build
 ### install
 ```
