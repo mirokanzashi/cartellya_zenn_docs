@@ -29,17 +29,20 @@ goto menu
 
 
 :new_article
+set /p slugval=ファイル名を入力してください（0-9a-z-_限定、12文字以上）：
+set slugparam=
+if not "%slugval%"=="" (
+    set slugparam=--slug %slugval%
+) 
 
 if "%choice%"=="2" (
     set /p title=記事のタイトルを入力してください：
 ) else (
     set title=""
 )
-cmd /k "npx zenn new:article --title %title% --type idea --emoji ✅"
+start cmd /c "npx zenn new:article --title %title% --type idea --emoji ✅ %slugparam%  && pause"
 
 
-
-pause
 goto menu
 
 :end
