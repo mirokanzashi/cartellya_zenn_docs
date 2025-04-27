@@ -1,6 +1,6 @@
 ---
 title: "はじめての記事"
-emoji: "🎃"
+emoji: "✅"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["メモ"]
 published: true
