@@ -29,9 +29,9 @@ goto menu
 
 
 :new_article
-echo newarr
+
 if "%choice%"=="2" (
-    set /p title=記事のタイトルを入力してください
+    set /p title=記事のタイトルを入力してください：
 ) else (
     set title=""
 )
