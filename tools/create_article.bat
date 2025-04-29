@@ -15,7 +15,7 @@ echo 1. 新記事作成(タイトルなし)
 echo 2. 新記事作成(タイトル指定)
 echo 0. 終了
 echo.
-set /p choice=番号を入力してください (1-2)：
+set /p choice=番号を入力してください (1-2,0)：
 
 if "%choice%"=="1" goto new_article
 if "%choice%"=="2" goto new_article
