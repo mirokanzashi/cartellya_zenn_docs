@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/mirokanzashi/cartellya_zenn_docs#readme",
   "dependencies": {
+    "npm": "^11.3.0",
     "zenn-cli": "^0.1.159"
   }
 }
