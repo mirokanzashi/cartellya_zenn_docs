@@ -15,7 +15,7 @@ published: true
 
 ## 機械学習
 1. [機械学習とは](https://zenn.dev/cartellya/articles/cartellya_20250504160626_e-memo-00007)
-2. 機械学習の分類
+2. [機械学習の分類](https://zenn.dev/cartellya/articles/cartellya_20250430222104_e-memo-00003)
 
 
 ## 深層学習
