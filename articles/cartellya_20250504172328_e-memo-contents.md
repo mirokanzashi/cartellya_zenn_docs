@@ -2,7 +2,7 @@
 title: "E資格の学習メモの目次"
 emoji: "✅"
 type: "idea" # tech: 技術記事 / idea: アイデア
-topics: ["学習記録"]
+topics: ["学習記録","E資格"]
 published: true
 ---
 
@@ -16,6 +16,14 @@ published: true
 ## 機械学習
 1. [機械学習とは](https://zenn.dev/cartellya/articles/cartellya_20250504160626_e-memo-00007)
 2. [機械学習の分類](https://zenn.dev/cartellya/articles/cartellya_20250430222104_e-memo-00003)
+3. [距離計算](https://zenn.dev/cartellya/articles/cartellya_20250505204044_e-memo-00008)
+4. [K近傍法](https://zenn.dev/cartellya/articles/cartellya_20250505204055_e-memo-00009)
+機械学習課題
+検証集合
+性能指標
+
 
 
 ## 深層学習
+半教師あり学習
+アンサンブル手法
