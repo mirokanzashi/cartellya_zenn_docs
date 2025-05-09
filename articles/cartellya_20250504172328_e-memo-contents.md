@@ -18,8 +18,8 @@ published: true
 2. [機械学習の分類](https://zenn.dev/cartellya/articles/cartellya_20250430222104_e-memo-00003)
 3. [距離計算](https://zenn.dev/cartellya/articles/cartellya_20250505204044_e-memo-00008)
 4. [K近傍法](https://zenn.dev/cartellya/articles/cartellya_20250505204055_e-memo-00009)
-機械学習課題
-検証集合
+5. [機械学習の課題](https://zenn.dev/cartellya/articles/cartellya_20250509130035_e-memo-00010)
+6. [機械学習のデータ検証](https://zenn.dev/cartellya/articles/cartellya_20250510004006_e-memo-00011)
 性能指標
 
 
