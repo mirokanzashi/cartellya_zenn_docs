@@ -11,7 +11,7 @@ published: true
 2. [E資格で必要な基礎数学（出題対象外）](https://zenn.dev/cartellya/articles/cartellya_20250502000129_e-memo-00004)
 3. [パラメータ推定：ベイズ則と尤度](https://zenn.dev/cartellya/articles/cartellya_20250502001744_e-memo-00005)
 4. [情報理論：情報量とエントロピー](https://zenn.dev/cartellya/articles/cartellya_20250429232257_e-memo-00002)
-5. 情報理論：エントロピーとダイバージェンス
+5. [情報理論：エントロピーとダイバージェンス](https://zenn.dev/cartellya/articles/cartellya_20250502002436_e-memo-00006)
 
 ## 機械学習
 1. [機械学習とは](https://zenn.dev/cartellya/articles/cartellya_20250504160626_e-memo-00007)
@@ -20,8 +20,8 @@ published: true
 4. [K近傍法](https://zenn.dev/cartellya/articles/cartellya_20250505204055_e-memo-00009)
 5. [機械学習の課題](https://zenn.dev/cartellya/articles/cartellya_20250509130035_e-memo-00010)
 6. [機械学習のデータ検証](https://zenn.dev/cartellya/articles/cartellya_20250510004006_e-memo-00011)
-性能指標
-
+7. [性能指標](https://zenn.dev/cartellya/articles/cartellya_20250510153609_e-memo-00012)
+8. [回帰の性能指標](https://zenn.dev/cartellya/articles/cartellya_20250511005035_e-memo-00013)
 
 
 ## 深層学習
