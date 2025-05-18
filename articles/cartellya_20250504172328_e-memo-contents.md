@@ -24,6 +24,10 @@ published: true
 8. [回帰の性能指標](https://zenn.dev/cartellya/articles/cartellya_20250511005035_e-memo-00013)
 
 
+## 順伝播ネットワーク
+1. [ニューラルネットワーク](https://zenn.dev/cartellya/articles/cartellya_20250517142434_e-memo-00014)
+2. [入力層設計](https://zenn.dev/cartellya/articles/cartellya_20250517231827_e-memo-00015)
+
 ## 深層学習
 半教師あり学習
 アンサンブル手法
