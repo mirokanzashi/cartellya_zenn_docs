@@ -27,6 +27,9 @@ published: true
 ## 順伝播ネットワーク
 1. [ニューラルネットワーク](https://zenn.dev/cartellya/articles/cartellya_20250517142434_e-memo-00014)
 2. [入力層設計](https://zenn.dev/cartellya/articles/cartellya_20250517231827_e-memo-00015)
+3. [中間層設計](https://zenn.dev/cartellya/articles/cartellya_20250519223449_e-memo-00016)
+4. [出力層設計](https://zenn.dev/cartellya/articles/cartellya_20250519234442_e-memo-00017)
+5. [誤差計算]
 
 ## 深層学習
 半教師あり学習
