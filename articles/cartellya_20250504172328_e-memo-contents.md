@@ -31,8 +31,10 @@ published: true
 4. [出力層設計](https://zenn.dev/cartellya/articles/cartellya_20250519234442_e-memo-00017)
 5. [誤差計算](https://zenn.dev/cartellya/articles/cartellya_20250528001705_e-memo-00018)
 6. [誤差逆伝播](https://zenn.dev/cartellya/articles/cartellya_20250616224638_e-memo-00019)
-7. [中間層の活性化関数の微分]
-8. [出力層の活性化関数の微分]
+7. [中間層の活性化関数の微分](https://zenn.dev/cartellya/articles/cartellya_20250617001019_e-memo-00020)
+8. [出力層の活性化関数の微分](https://zenn.dev/cartellya/articles/cartellya_20250617001029_e-memo-00021)
+9. [損失関数の微分](https://zenn.dev/cartellya/articles/cartellya_20250617230822_e-memo-00022)
+10. [重みの更新]
 
 ## 深層学習
 半教師あり学習
