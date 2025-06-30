@@ -24,7 +24,7 @@ published: true
 8. [回帰の性能指標](https://zenn.dev/cartellya/articles/cartellya_20250511005035_e-memo-00013)
 
 
-## 順伝播ネットワーク
+## モデルの最適化
 1. [ニューラルネットワーク](https://zenn.dev/cartellya/articles/cartellya_20250517142434_e-memo-00014)
 2. [入力層設計](https://zenn.dev/cartellya/articles/cartellya_20250517231827_e-memo-00015)
 3. [中間層設計](https://zenn.dev/cartellya/articles/cartellya_20250519223449_e-memo-00016)
@@ -34,7 +34,12 @@ published: true
 7. [中間層の活性化関数の微分](https://zenn.dev/cartellya/articles/cartellya_20250617001019_e-memo-00020)
 8. [出力層の活性化関数の微分](https://zenn.dev/cartellya/articles/cartellya_20250617001029_e-memo-00021)
 9. [損失関数の微分](https://zenn.dev/cartellya/articles/cartellya_20250617230822_e-memo-00022)
-10. [重みの更新]
+10. [パラメータの調整](https://zenn.dev/cartellya/articles/cartellya_20250617233420_e-memo-00023)
+11. [計算グラフ](https://zenn.dev/cartellya/articles/cartellya_20250627002629_e-memo-00024)
+12. [学習の問題と対策]()
+13. [データ拡張]()
+14. [正則化項]()
+15. [ハイパーパラメータの最適化]()
 
 ## 深層学習
 半教師あり学習
