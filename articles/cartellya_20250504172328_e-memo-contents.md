@@ -22,9 +22,10 @@ published: true
 6. [機械学習のデータ検証](https://zenn.dev/cartellya/articles/cartellya_20250510004006_e-memo-00011)
 7. [性能指標](https://zenn.dev/cartellya/articles/cartellya_20250510153609_e-memo-00012)
 8. [回帰の性能指標](https://zenn.dev/cartellya/articles/cartellya_20250511005035_e-memo-00013)
+9. [アンサンブル手法](https://zenn.dev/cartellya/articles/cartellya_20250703000441_e-memo-00030)
 
 
-## モデルの最適化
+## ニューラルネットワークとモデルの最適化
 1. [ニューラルネットワーク](https://zenn.dev/cartellya/articles/cartellya_20250517142434_e-memo-00014)
 2. [入力層設計](https://zenn.dev/cartellya/articles/cartellya_20250517231827_e-memo-00015)
 3. [中間層設計](https://zenn.dev/cartellya/articles/cartellya_20250519223449_e-memo-00016)
@@ -36,11 +37,11 @@ published: true
 9. [損失関数の微分](https://zenn.dev/cartellya/articles/cartellya_20250617230822_e-memo-00022)
 10. [パラメータの調整](https://zenn.dev/cartellya/articles/cartellya_20250617233420_e-memo-00023)
 11. [計算グラフ](https://zenn.dev/cartellya/articles/cartellya_20250627002629_e-memo-00024)
-12. [学習の問題と対策]()
-13. [データ拡張]()
-14. [正則化項]()
-15. [ハイパーパラメータの最適化]()
+12. [学習の問題と対策](https://zenn.dev/cartellya/articles/cartellya_20250630235047_e-memo-00025)
+13. [データの活用](https://zenn.dev/cartellya/articles/cartellya_20250702233737_e-memo-00029)
+14. [データ拡張](https://zenn.dev/cartellya/articles/cartellya_20250630235059_e-memo-00026)
+15. [正則化](https://zenn.dev/cartellya/articles/cartellya_20250630235110_e-memo-00027)
+16. [ハイパーパラメータの最適化](https://zenn.dev/cartellya/articles/cartellya_20250630235849_e-memo-00028)
+17. [パラメータ初期化戦略](https://zenn.dev/cartellya/articles/cartellya_20250703002351_e-memo-00031)
 
-## 深層学習
-半教師あり学習
-アンサンブル手法
+## 畳み込みニューラルネットワーク
