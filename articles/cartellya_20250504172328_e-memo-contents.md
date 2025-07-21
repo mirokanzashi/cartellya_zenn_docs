@@ -44,4 +44,38 @@ published: true
 16. [ハイパーパラメータの最適化](https://zenn.dev/cartellya/articles/cartellya_20250630235849_e-memo-00028)
 17. [パラメータ初期化戦略](https://zenn.dev/cartellya/articles/cartellya_20250703002351_e-memo-00031)
 
+
+
 ## 畳み込みニューラルネットワーク
+1. [畳み込みニューラルネットワークの特徴](https://zenn.dev/cartellya/articles/cartellya_20250707004224_e-memo-00032)
+2. [畳み込みニューラルネットワークの構造](https://zenn.dev/cartellya/articles/cartellya_20250712234202_e-memo-00033)
+3. [特別な畳み込み](https://zenn.dev/cartellya/articles/cartellya_20250712234211_e-memo-00034)
+
+## リカレントニューラルネットワークとトランスフォーマー
+1. [リカレントニューラルネットワーク](https://zenn.dev/cartellya/articles/cartellya_20250713173247_e-memo-00035)
+2. [LSTM](https://zenn.dev/cartellya/articles/cartellya_20250713223028_e-memo-00036)
+3. [GRU](https://zenn.dev/cartellya/articles/cartellya_20250713223038_e-memo-00037)
+4. [RNNの系列変換](https://zenn.dev/cartellya/articles/cartellya_20250715231336_e-memo-00038)
+5. [Transformer](https://zenn.dev/cartellya/articles/cartellya_20250716003706_e-memo-00039)
+6. [正規化](https://zenn.dev/cartellya/articles/cartellya_20250720005135_e-memo-00040)
+
+
+## その他学習方法
+1. [転移学習](https://zenn.dev/cartellya/articles/cartellya_20250720173616_e-memo-00041)
+2. [距離学習]
+
+## 深層学習の運用
+### 画像認識
+1. [ResNet](https://zenn.dev/cartellya/articles/cartellya_20250720230708_e-memo-00042)
+2. [Vision Transformer](https://zenn.dev/cartellya/articles/cartellya_20250720230726_e-memo-00043)
+
+### 物体検出
+1. [FasterR-CNN, MaskR-CNN]
+2. [YOLO,SSD]
+3. [FCOS]
+
+### 自然言語処理
+1. [自然言語処理とword embedding](https://zenn.dev/cartellya/articles/cartellya_20250721224007_e-memo-00044)
+2. [Word2vec](https://zenn.dev/cartellya/articles/cartellya_20250721231450_e-memo-00045)
+3. [BERT]
+4. [GPT-n]
