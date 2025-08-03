@@ -70,12 +70,24 @@ published: true
 2. [Vision Transformer](https://zenn.dev/cartellya/articles/cartellya_20250720230726_e-memo-00043)
 
 ### 物体検出
-1. [FasterR-CNN, MaskR-CNN]
-2. [YOLO,SSD]
-3. [FCOS]
+1. [R-CNNとFast R-CNN](https://zenn.dev/cartellya/articles/cartellya_20250727230640_e-memo-00049)
+2. [FasterR-CNN](https://zenn.dev/cartellya/articles/cartellya_20250727223459_e-memo-00048)
+3. [MaskR-CNN](https://zenn.dev/cartellya/articles/cartellya_20250727235509_e-memo-00050)
+4. [YOLO](https://zenn.dev/cartellya/articles/cartellya_20250728233914_e-memo-00051)
+5. [SSD](https://zenn.dev/cartellya/articles/cartellya_20250729000356_e-memo-00052)
+6. [FCOS](https://zenn.dev/cartellya/articles/cartellya_20250729005246_e-memo-00053)
 
 ### 自然言語処理
 1. [自然言語処理とword embedding](https://zenn.dev/cartellya/articles/cartellya_20250721224007_e-memo-00044)
 2. [Word2vec](https://zenn.dev/cartellya/articles/cartellya_20250721231450_e-memo-00045)
-3. [BERT]
-4. [GPT-n]
+3. [BERT](https://zenn.dev/cartellya/articles/cartellya_20250726222003_e-memo-00046)
+4. [GPT-n](https://zenn.dev/cartellya/articles/cartellya_20250727002641_e-memo-00047)
+
+### セマンティックセグメンテーション
+1. [セマンティックセグメンテーション](https://zenn.dev/cartellya/articles/cartellya_20250729234747_e-memo-00054)
+
+### 生成モデル
+1. [生成モデル](https://zenn.dev/cartellya/articles/cartellya_20250802153230_e-memo-00055)
+2. [VAE](https://zenn.dev/cartellya/articles/cartellya_20250802155743_e-memo-00056)
+3. [基本的なGAN](https://zenn.dev/cartellya/articles/cartellya_20250802155751_e-memo-00057)
+4. [条件付きGAN](https://zenn.dev/cartellya/articles/cartellya_20250803232107_e-memo-00058)
