@@ -62,7 +62,7 @@ published: true
 
 ## その他学習方法
 1. [転移学習](https://zenn.dev/cartellya/articles/cartellya_20250720173616_e-memo-00041)
-2. [距離学習]
+2. [距離学習](https://zenn.dev/cartellya/articles/cartellya_20250811160039_e-memo-00068)
 
 ## 深層学習の運用
 ### 画像認識
@@ -91,3 +91,18 @@ published: true
 2. [VAE](https://zenn.dev/cartellya/articles/cartellya_20250802155743_e-memo-00056)
 3. [基本的なGAN](https://zenn.dev/cartellya/articles/cartellya_20250802155751_e-memo-00057)
 4. [条件付きGAN](https://zenn.dev/cartellya/articles/cartellya_20250803232107_e-memo-00058)
+
+### 深層強化学習
+1. [深層強化学習](https://zenn.dev/cartellya/articles/cartellya_20250805231347_e-memo-00059)
+2. [DQN](https://zenn.dev/cartellya/articles/cartellya_20250805234236_e-memo-00060)
+3. [A3C](https://zenn.dev/cartellya/articles/cartellya_20250805234245_e-memo-00061)
+
+## 深層学習の説明性
+1. [判断根拠の可視化](https://zenn.dev/cartellya/articles/cartellya_20250810235729_e-memo-00062)
+2. [モデルの近似](https://zenn.dev/cartellya/articles/cartellya_20250810235737_e-memo-00063)
+
+## 開発・運用
+1. [デバイスによる高速化](https://zenn.dev/cartellya/articles/cartellya_20250810235756_e-memo-00064)
+2. [並列分散処理](https://zenn.dev/cartellya/articles/cartellya_20250811160005_e-memo-00065)
+3. [モデルの軽量化](https://zenn.dev/cartellya/articles/cartellya_20250811160023_e-memo-00066)
+4. [環境構築]
